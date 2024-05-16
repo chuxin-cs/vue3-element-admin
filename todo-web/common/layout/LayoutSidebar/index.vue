@@ -43,16 +43,18 @@ export default {
     };
   },
   computed: {
-    ...mapGetters(["menu", "keyCollapse", "screen",'isCollapse']),
+    ...mapGetters(["menu", "keyCollapse", "screen", "isCollapse"]),
     nowTagValue() {
       return this.$route.meta.code;
     },
     projectMenu() {
       return this.menu || [];
     },
-    menuCollapseIcon(){
-      return this.isCollapse?'icon-zuocedaohang-zhankai':'icon-zuocedaohang-shouqi'
-    }
+    menuCollapseIcon() {
+      return this.isCollapse
+        ? "icon-zuocedaohang-zhankai"
+        : "icon-zuocedaohang-shouqi";
+    },
   },
   mounted() {},
   methods: {
@@ -95,7 +97,7 @@ export default {
   }
   .el-scrollbar {
     padding: 12px 8px;
-    /deep/ {
+    ::v-deep {
       .el-scrollbar__bar.is-horizontal {
         display: none;
       }
@@ -104,7 +106,7 @@ export default {
   .el-menu {
     &.el-menu--collapse {
       width: auto;
-      /deep/ {
+      ::v-deep {
         .el-submenu.is-active {
           .el-submenu__title {
             background: #ecf2fe;
@@ -116,7 +118,7 @@ export default {
         }
       }
     }
-    /deep/ {
+    ::v-deep {
       .el-menu-item {
         height: 36px;
         line-height: 36px;

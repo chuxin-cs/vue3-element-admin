@@ -44,7 +44,8 @@ export default {
   align-items: center;
   padding-left: 24px;
   justify-content: space-between;
-  /deep/ {
+
+  ::v-deep {
     .el-breadcrumb__item {
       .el-breadcrumb__inner {
         font-size: 14px;
