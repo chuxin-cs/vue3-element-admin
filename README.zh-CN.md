@@ -3,10 +3,10 @@
 <p align="center"></p>
 
 <p align="center">
-  <span>English | <a href="./README.zh-CN.md">中文</a></span>
+  <span>中文 | <a href="./README.md">英文</a></span>
 </p>
 
 ### 功能清单
 | 功能名称  |  文档链接  | 功能描述 |
 | -------- | --------- |--------- |
-|  |      |  |
+|   |     |  |
