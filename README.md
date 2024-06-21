@@ -12,7 +12,7 @@
   <span>English | <a href="./README.zh-CN.md">中文</a></span>
 </p>
 
-### 功能清单
-| 功能名称  |  文档链接  | 功能描述 |
+### name list
+| name  |  document  | description |
 | -------- | --------- |--------- |
 |  |      |  |
