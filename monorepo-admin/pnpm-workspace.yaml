@@ -1,3 +1,4 @@
 packages:
   # 定义 packages 目录下所有子目录的子目录都是工作空间包
   - 'packages/**'
+  - 'common/**'
