@@ -160,6 +160,5 @@ Execute `pnpm run commit` to invoke interactive git commit and complete the info
 > This measure is taken to ensure the quality of the community and prevent marketing advertising from infiltrating. Thank you for your understanding!
 
 | Official Account | Community |
-|:----:|:----:|
-| ![Youlai Tech WeChat Official Account QR Code](https://foruda.gitee.com/images/1687689212187063809/3c69eaee_716974.png) | ![Community QR Code](https://foruda.gitee.com/images/1687689212139273561/6a65ef69_716974.png) |
+
 
