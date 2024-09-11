@@ -185,7 +185,3 @@ Thanks to all the contributors!
 >
 > 为确保交流群质量，防止营销广告人群混入，我们采取了此措施。望各位理解！
 
-| 公众号 | 交流群 |
-|:----:|:----:|
-| ![有来技术公众号二维码](https://foruda.gitee.com/images/1687689212187063809/3c69eaee_716974.png) | ![交流群二维码](https://foruda.gitee.com/images/1687689212139273561/6a65ef69_716974.png
-
