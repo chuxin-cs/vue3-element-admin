@@ -169,10 +169,6 @@ server {
 
 ## 项目统计
 
-![Alt](https://repobeats.axiom.co/api/embed/aa7cca3d6fa9c308fc659fa6e09af9a1910506c3.svg "Repobeats analytics image")
-
-
-Thanks to all the contributors!
 
 
 
