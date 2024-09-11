@@ -145,13 +145,3 @@ The project supports both online API and local mock API. By default, it uses the
 - [ESLint+Prettier+Stylelint+EditorConfig for Standardized and Unified Frontend Code Style](https://blog.csdn.net/u013737132/article/details/130190788)
 - [Git Commit Conventions with Husky, Lint-staged, Commitlint, Commitizen, and cz-git](https://blog.csdn.net/u013737132/article/details/130191363)
 
-## Commit Conventions
-
-Execute `pnpm run commit` to invoke interactive git commit and complete the information input and selection according to the prompts.
-
-![](https://foruda.gitee.com/images/1687755823165218215/c1705416_716974.png)
-
-## Community 🚀
-
->
-
