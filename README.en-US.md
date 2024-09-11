@@ -153,12 +153,5 @@ Execute `pnpm run commit` to invoke interactive git commit and complete the info
 
 ## Community 🚀
 
-> **Follow "Youlai Tech" WeChat Official Account to get the QR code for the community.**
 >
-> If the QR code for the community has expired, please add my WeChat (haoxianrui) and indicate whether you are interested in "Frontend", "Backend", or "Full Stack" to get the latest QR code.
->
-> This measure is taken to ensure the quality of the community and prevent marketing advertising from infiltrating. Thank you for your understanding!
-
-| Official Account | Community |
-
 
