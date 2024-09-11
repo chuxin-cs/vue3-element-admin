@@ -167,13 +167,4 @@ server {
 ![](https://foruda.gitee.com/images/1687755823165218215/c1705416_716974.png)
 
 
-## 项目统计
-
-![Alt](https://repobeats.axiom.co/api/embed/aa7cca3d6fa9c308fc659fa6e09af9a1910506c3.svg "Repobeats analytics image")
-
-
-Thanks to all the contributors!
-
-[![contributors](https://contrib.rocks/image?repo=youlaitech/vue3-element-admin)](https://github.com/youlaitech/vue3-element-admin/graphs/contributors)
-
 
