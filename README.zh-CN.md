@@ -177,11 +177,3 @@ Thanks to all the contributors!
 [![contributors](https://contrib.rocks/image?repo=youlaitech/vue3-element-admin)](https://github.com/youlaitech/vue3-element-admin/graphs/contributors)
 
 
-## 交流群🚀
-
-> **关注「有来技术」公众号，获取交流群二维码。**
->
-> 如果交流群的二维码过期，请加微信(haoxianrui)并备注「前端」、「后端」或「全栈」以获取最新二维码。
->
-> 为确保交流群质量，防止营销广告人群混入，我们采取了此措施。望各位理解！
-
