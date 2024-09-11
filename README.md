@@ -174,7 +174,6 @@ server {
 
 Thanks to all the contributors!
 
-[![contributors](https://contrib.rocks/image?repo=youlaitech/vue3-element-admin)](https://github.com/youlaitech/vue3-element-admin/graphs/contributors)
 
 
 
